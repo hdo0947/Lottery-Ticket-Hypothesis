@@ -1,4 +1,4 @@
-Final project for EECS 545: Machine Learning, by Jack Weitze and Hyeonsu Do (https://github.com/hdo0947).
+Final project for EECS 545: Machine Learning, by Jack Weitze and Hyeonsu Do.
 
 This project was an investigation of iterative pruning in neural networks with weight rewinding. This methodology was introduced by Frankle and Carbin, 2018 (https://arxiv.org/abs/1803.03635).
 The goal of pruning in neural networks is to set certain weights to 0, effectively reducing the number of trainable parameters, while maintaining model performance.
